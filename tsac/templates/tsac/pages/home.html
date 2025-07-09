@@ -1,0 +1,17 @@
+{% include "tsac\partials\header.html" %}
+
+<body>
+    {% include "tsac\partials\head.thml" %}
+    {% include "tsac\partials\search.html" %}
+    <main class="main-content-cotainer">
+        <div class="main-content main-content-list container">
+            {% for noticia in noticias %}
+            {% include "tsac\partials\noticias.html" with is_detail_page=is_detail_page%}
+            {% endfor %}
+        </div>
+
+    </main>
+    {% include "tsac\partials\footer.html" %}
+</body>
+
+</html>

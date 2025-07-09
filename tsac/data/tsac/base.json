@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "titulo": "Educação em Saúde Digital",
+        "autor": "Dr. Silva",
+        "data": "2025-07-09",
+        "categoria": "Saúde Digital",
+        "conteudo": "A saúde digital abrange tecnologias que facilitam o atendimento médico e o gerenciamento da saúde de forma acessível. Inclui desde aplicativos de saúde até telemedicina, permitindo que pacientes tenham acesso rápido a informações e serviços de saúde. A importância dessa área está no potencial de melhorar a qualidade de vida, principalmente ao eliminar barreiras geográficas e de tempo.",
+        "objetivo": "Capacitar profissionais em tecnologia",
+        "imagem": "https://estruturadinamica.com.br/wp-content/uploads/2024/11/digital-helthcare.png"
+    },
+    {
+        "id": 2,
+        "titulo": "Telemedicina no Interior",
+        "autor": "Dra. Santos",
+        "data": "2025-07-08",
+        "categoria": "Telemedicina",
+        "conteudo": "Integralidade, universalidade do acesso, equidade, descentralização da gestão e hierarquização dos serviços. Esses são alguns princípios do Sistema Único de Saúde (SUS).A telemedicina é uma ferramenta fundamental para promover a regionalização por meio da tecnologia e informação. Além disso, também favorece atenção humanizada da saúde com a ampliação do acesso às populações menos favorecidas pelo isolamento geográfico.Quer saber mais sobre o assunto? Então, continue a leitura e confira os benefícios da telemedicina no interior.",
+        "objetivo": "Melhorar acesso à saúde",
+        "imagem": "https://www.conexasaude.com.br/blog/wp-content/uploads/2019/10/pasted-image-0-14.png"
+    },
+    {
+        "id": 3,
+        "titulo": "Capacitação Online",
+        "autor": "Prof. Costa",
+        "data": "2025-07-07",
+        "categoria": "Educação",
+        "conteudo": "O mercado de cursos online continua em expansão. Com a alta demanda por conhecimento rápido, acessível e de qualidade, cada vez mais profissionais e empresas estão investindo na criação de cursos EAD. Mas para se destacar em meio à concorrência, não basta apenas compartilhar conhecimento: é preciso entregar uma experiência de aprendizado marcante, bem estruturada e com produção profissional.Neste artigo, você confere um passo a passo completo para criar um curso online com qualidade profissional – da ideia inicial à edição final do vídeo. Vamos lá?",
+        "objetivo": "Formar profissionais qualificados",
+        "imagem": "https://nuvemaudiovisual.com/wp-content/webp-express/webp-images/uploads/2025/04/Como-Criar-um-Curso-Online-com-Qualidade-Profissional-Guia-Passo-a-Passo.png.webp"
+    }
+]

@@ -1,0 +1,16 @@
+<header>
+    <div class="main-headre-container">
+        <div class="main-headre container">
+            <h1>
+                <a class="main-logo" href="/">
+                    <i class="fas fa-address-book main-logo-icon"></i>
+                    <span class="main-logo-text">{{name}}</span>
+
+                </a>
+            </h1>
+
+        </div>
+
+    </div>
+
+</header>

@@ -1,0 +1,25 @@
+<div class="news news-list-item">
+    <div class="news-cover">
+        <img src="{{noticia.imagem}}" alt="{{noticia.titulo}}">
+    </div>
+    <div class="news-title-container">
+        <h2 class="news-title">{{noticia.titulo}}</h2>
+    </div>
+    <div class="news-author">
+        <span class="news-author-item">
+            <i class="fas fa-user"></i>
+            {{noticia.autor}}
+        </span>
+        <span class="news-author-item">
+            <i class="fas fa-calendar-alt"></i>
+            {{noticia.data}}
+        </span>
+        <span class="news-author-item">
+            <a href="#">
+                <i class="fas fa-layer-group"></i>
+                <span>{{noticia.categoria}}</span>
+            </a>
+        </span>
+    </div>
+
+</div>
